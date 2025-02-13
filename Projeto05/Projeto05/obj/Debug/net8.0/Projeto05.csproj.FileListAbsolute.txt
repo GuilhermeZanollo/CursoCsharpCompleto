@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\bin\Debug\net8.0\Projeto05.exe
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\bin\Debug\net8.0\Projeto05.deps.json
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\bin\Debug\net8.0\Projeto05.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\bin\Debug\net8.0\Projeto05.dll
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\bin\Debug\net8.0\Projeto05.pdb
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\obj\Debug\net8.0\Projeto05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\obj\Debug\net8.0\Projeto05.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\obj\Debug\net8.0\Projeto05.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\obj\Debug\net8.0\Projeto05.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\obj\Debug\net8.0\Projeto05.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\obj\Debug\net8.0\Projeto05.dll
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\obj\Debug\net8.0\refint\Projeto05.dll
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\obj\Debug\net8.0\Projeto05.pdb
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\obj\Debug\net8.0\Projeto05.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto05\Projeto05\obj\Debug\net8.0\ref\Projeto05.dll
