@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\bin\Debug\net8.0\Projeto02.exe
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\bin\Debug\net8.0\Projeto02.deps.json
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\bin\Debug\net8.0\Projeto02.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\bin\Debug\net8.0\Projeto02.dll
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\bin\Debug\net8.0\Projeto02.pdb
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\obj\Debug\net8.0\Projeto02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\obj\Debug\net8.0\Projeto02.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\obj\Debug\net8.0\Projeto02.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\obj\Debug\net8.0\Projeto02.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\obj\Debug\net8.0\Projeto02.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\obj\Debug\net8.0\Projeto02.dll
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\obj\Debug\net8.0\refint\Projeto02.dll
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\obj\Debug\net8.0\Projeto02.pdb
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\obj\Debug\net8.0\Projeto02.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto02\Projeto02\obj\Debug\net8.0\ref\Projeto02.dll
