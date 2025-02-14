@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\bin\Debug\net8.0\Projeto07.exe
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\bin\Debug\net8.0\Projeto07.deps.json
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\bin\Debug\net8.0\Projeto07.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\bin\Debug\net8.0\Projeto07.dll
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\bin\Debug\net8.0\Projeto07.pdb
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\obj\Debug\net8.0\Projeto07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\obj\Debug\net8.0\Projeto07.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\obj\Debug\net8.0\Projeto07.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\obj\Debug\net8.0\Projeto07.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\obj\Debug\net8.0\Projeto07.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\obj\Debug\net8.0\Projeto07.dll
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\obj\Debug\net8.0\refint\Projeto07.dll
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\obj\Debug\net8.0\Projeto07.pdb
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\obj\Debug\net8.0\Projeto07.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto07\Projeto07\obj\Debug\net8.0\ref\Projeto07.dll
