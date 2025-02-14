@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Projetos\\CursoCsharp\\Projeto07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E24710C-ADA3-4EF2-9436-6B49BA30E186}|Projeto07\\Projeto07.csproj|c:\\projetos\\cursocsharp\\projeto07\\projeto07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E24710C-ADA3-4EF2-9436-6B49BA30E186}|Projeto07\\Projeto07.csproj|solutionrelative:projeto07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\CursoCsharp\\Projeto07\\Projeto07\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projeto07\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E24710C-ADA3-4EF2-9436-6B49BA30E186}|Projeto07\\Projeto07.csproj|c:\\projetos\\cursocsharp\\projeto07\\projeto07\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E24710C-ADA3-4EF2-9436-6B49BA30E186}|Projeto07\\Projeto07.csproj|solutionrelative:projeto07\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\CursoCsharp\\Projeto07\\Projeto07\\ConversorDeMoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projeto07\\ConversorDeMoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Projeto07\\ConversorDeMoeda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T14:40:52.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T14:40:52.897Z"
             },
             {
               "$type": "Document",
@@ -41,10 +40,8 @@
               "RelativeDocumentMoniker": "Projeto07\\Program.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto07\\Projeto07\\Program.cs",
               "RelativeToolTip": "Projeto07\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T14:39:43.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T14:39:43.158Z"
             }
           ]
         }
