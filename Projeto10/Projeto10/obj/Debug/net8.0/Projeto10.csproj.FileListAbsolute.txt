@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\obj\Debug\net8.0\Projeto10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\obj\Debug\net8.0\Projeto10.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\obj\Debug\net8.0\Projeto10.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\obj\Debug\net8.0\Projeto10.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\obj\Debug\net8.0\Projeto10.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\bin\Debug\net8.0\Projeto10.exe
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\bin\Debug\net8.0\Projeto10.deps.json
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\bin\Debug\net8.0\Projeto10.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\bin\Debug\net8.0\Projeto10.dll
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\bin\Debug\net8.0\Projeto10.pdb
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\obj\Debug\net8.0\Projeto10.dll
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\obj\Debug\net8.0\refint\Projeto10.dll
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\obj\Debug\net8.0\Projeto10.pdb
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\obj\Debug\net8.0\Projeto10.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto10\Projeto10\obj\Debug\net8.0\ref\Projeto10.dll
