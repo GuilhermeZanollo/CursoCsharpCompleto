@@ -16,17 +16,19 @@ namespace PrimeiroProjeto
             Console.Write("Entre o valor do raio: ");
             double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double circ = Circunferencia(raio);
-            double volume = Volume(raio);
+            double circ = Circunferencia(raio); // Calcula a circunferência chamando o método Circunferencia com o valor do raio.
+            double volume = Volume(raio); // Calcula o volume chamando o método Volume com o valor do raio.
 
             Console.WriteLine("Circunferência: " + circ.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Volume: " + volume.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Valor de PI: " + Pi.ToString("F2", CultureInfo.InvariantCulture));
         }
 
-        static double Circunferencia(double r) // tem que retornar o valor do RAIO passado pelo usuário com esse parametro. 
-        {                                       // 
-            return 2.0 * Pi * r;
+        static double Circunferencia(double r) // Tem que retornar o valor do RAIO passado pelo usuário com esse parametro. 
+        {                                       // Nao precisa adicionar o public nessas funções/metodos pois eles já estao dentro da classe.
+            return 2.0 * Pi * r;                // Para chamar esses metodos que sao da PROPRIA classe MAIN, é preciso tornar os metodos estaticos
+                                                // ou seja, temos que transformar a circunferencia e o volume estaticos, para chama-los na classe
+                                                //main.
         }
 
         static double Volume(double r)
