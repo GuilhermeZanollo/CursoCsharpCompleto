@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoCsharp\\Projeto11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{920B6D17-6601-4900-B6FE-1C5C9477DE5B}|Projeto11\\Projeto11.csproj|c:\\projetos\\cursocsharp\\projeto11\\projeto11\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920B6D17-6601-4900-B6FE-1C5C9477DE5B}|Projeto11\\Projeto11.csproj|solutionrelative:projeto11\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920B6D17-6601-4900-B6FE-1C5C9477DE5B}|Projeto11\\Projeto11.csproj|c:\\projetos\\cursocsharp\\projeto11\\projeto11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920B6D17-6601-4900-B6FE-1C5C9477DE5B}|Projeto11\\Projeto11.csproj|solutionrelative:projeto11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto11\\Projeto11\\Produto.cs",
+              "RelativeDocumentMoniker": "Projeto11\\Produto.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto11\\Projeto11\\Produto.cs",
+              "RelativeToolTip": "Projeto11\\Produto.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:17:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto11\\Projeto11\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto11\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto11\\Projeto11\\Program.cs",
+              "RelativeToolTip": "Projeto11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:12:17.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
