@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\obj\Debug\net8.0\Projeto14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\obj\Debug\net8.0\Projeto14.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\obj\Debug\net8.0\Projeto14.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\obj\Debug\net8.0\Projeto14.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\obj\Debug\net8.0\Projeto14.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\bin\Debug\net8.0\Projeto14.exe
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\bin\Debug\net8.0\Projeto14.deps.json
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\bin\Debug\net8.0\Projeto14.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\bin\Debug\net8.0\Projeto14.dll
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\bin\Debug\net8.0\Projeto14.pdb
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\obj\Debug\net8.0\Projeto14.dll
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\obj\Debug\net8.0\refint\Projeto14.dll
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\obj\Debug\net8.0\Projeto14.pdb
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\obj\Debug\net8.0\Projeto14.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto14\Projeto14\obj\Debug\net8.0\ref\Projeto14.dll

@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\bin\Debug\net8.0\Projeto16.exe
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\bin\Debug\net8.0\Projeto16.deps.json
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\bin\Debug\net8.0\Projeto16.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\bin\Debug\net8.0\Projeto16.dll
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\bin\Debug\net8.0\Projeto16.pdb
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\obj\Debug\net8.0\Projeto16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\obj\Debug\net8.0\Projeto16.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\obj\Debug\net8.0\Projeto16.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\obj\Debug\net8.0\Projeto16.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\obj\Debug\net8.0\Projeto16.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\obj\Debug\net8.0\Projeto16.dll
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\obj\Debug\net8.0\refint\Projeto16.dll
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\obj\Debug\net8.0\Projeto16.pdb
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\obj\Debug\net8.0\Projeto16.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto16\Projeto16\obj\Debug\net8.0\ref\Projeto16.dll
