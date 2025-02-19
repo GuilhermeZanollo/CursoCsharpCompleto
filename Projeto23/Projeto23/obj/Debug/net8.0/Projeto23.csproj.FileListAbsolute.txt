@@ -1,0 +1,5 @@
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\bin\Debug\net8.0\Projeto22.exe
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\bin\Debug\net8.0\Projeto22.deps.json
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\bin\Debug\net8.0\Projeto22.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\bin\Debug\net8.0\Projeto22.dll
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\bin\Debug\net8.0\Projeto22.pdb
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\obj\Debug\net8.0\Projeto22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\obj\Debug\net8.0\Projeto22.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\obj\Debug\net8.0\Projeto22.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\obj\Debug\net8.0\Projeto22.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\obj\Debug\net8.0\Projeto22.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\obj\Debug\net8.0\Projeto22.dll
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\obj\Debug\net8.0\refint\Projeto22.dll
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\obj\Debug\net8.0\Projeto22.pdb
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\obj\Debug\net8.0\Projeto22.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto22\Projeto22\obj\Debug\net8.0\ref\Projeto22.dll
