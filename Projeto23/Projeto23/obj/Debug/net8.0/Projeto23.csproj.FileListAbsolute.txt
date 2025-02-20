@@ -3,3 +3,13 @@ C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.AssemblyI
 C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.AssemblyInfo.cs
 C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.csproj.CoreCompileInputs.cache
 C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\bin\Debug\net8.0\Projeto23.exe
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\bin\Debug\net8.0\Projeto23.deps.json
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\bin\Debug\net8.0\Projeto23.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\bin\Debug\net8.0\Projeto23.dll
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\bin\Debug\net8.0\Projeto23.pdb
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.dll
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\refint\Projeto23.dll
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.pdb
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\Projeto23.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto23\Projeto23\obj\Debug\net8.0\ref\Projeto23.dll

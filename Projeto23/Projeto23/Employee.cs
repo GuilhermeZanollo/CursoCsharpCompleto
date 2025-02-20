@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace Projeto23
 {
@@ -11,5 +12,15 @@ namespace Projeto23
         public int Id { get; set; }
         public string Name { get; set; }
         public double Salary { get; set; }
+
+        public void SalaryIncrease(double percentage)
+        {
+            Salary += Salary * (percentage / 100); 
+        }
+
+        public override string ToString()
+        {
+            return Id + ", " + Name + ", " + Salary.ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
 }

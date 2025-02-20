@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\bin\Debug\net8.0\Projeto27.exe
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\bin\Debug\net8.0\Projeto27.deps.json
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\bin\Debug\net8.0\Projeto27.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\bin\Debug\net8.0\Projeto27.dll
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\bin\Debug\net8.0\Projeto27.pdb
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\obj\Debug\net8.0\Projeto27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\obj\Debug\net8.0\Projeto27.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\obj\Debug\net8.0\Projeto27.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\obj\Debug\net8.0\Projeto27.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\obj\Debug\net8.0\Projeto27.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\obj\Debug\net8.0\Projeto27.dll
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\obj\Debug\net8.0\refint\Projeto27.dll
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\obj\Debug\net8.0\Projeto27.pdb
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\obj\Debug\net8.0\Projeto27.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto27\Projeto27\obj\Debug\net8.0\ref\Projeto27.dll

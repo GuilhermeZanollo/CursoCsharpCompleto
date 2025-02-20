@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\obj\Debug\net8.0\Projeto30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\obj\Debug\net8.0\Projeto30.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\obj\Debug\net8.0\Projeto30.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\obj\Debug\net8.0\Projeto30.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\obj\Debug\net8.0\Projeto30.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\bin\Debug\net8.0\Projeto30.exe
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\bin\Debug\net8.0\Projeto30.deps.json
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\bin\Debug\net8.0\Projeto30.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\bin\Debug\net8.0\Projeto30.dll
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\bin\Debug\net8.0\Projeto30.pdb
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\obj\Debug\net8.0\Projeto30.dll
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\obj\Debug\net8.0\refint\Projeto30.dll
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\obj\Debug\net8.0\Projeto30.pdb
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\obj\Debug\net8.0\Projeto30.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto30\Projeto30\obj\Debug\net8.0\ref\Projeto30.dll

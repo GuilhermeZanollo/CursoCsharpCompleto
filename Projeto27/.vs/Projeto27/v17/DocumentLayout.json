@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoCsharp\\Projeto27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{084AE0CA-3227-400F-ADBE-9EEC625AF753}|Projeto27\\Projeto27.csproj|c:\\projetos\\cursocsharp\\projeto27\\projeto27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084AE0CA-3227-400F-ADBE-9EEC625AF753}|Projeto27\\Projeto27.csproj|solutionrelative:projeto27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto27\\Projeto27\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto27\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto27\\Projeto27\\Program.cs",
+              "RelativeToolTip": "Projeto27\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:10:34.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
