@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\bin\Debug\net8.0\Projeto31.exe
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\bin\Debug\net8.0\Projeto31.deps.json
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\bin\Debug\net8.0\Projeto31.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\bin\Debug\net8.0\Projeto31.dll
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\bin\Debug\net8.0\Projeto31.pdb
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.dll
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\obj\Debug\net8.0\refint\Projeto31.dll
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.pdb
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\obj\Debug\net8.0\Projeto31.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto31\Projeto31\obj\Debug\net8.0\ref\Projeto31.dll

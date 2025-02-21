@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Projetos\\CursoCsharp\\Projeto30\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BD35A2D-EEEA-4F65-BCD4-F30B5FFE5EBF}|Projeto30\\Projeto30.csproj|c:\\projetos\\cursocsharp\\projeto30\\projeto30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BD35A2D-EEEA-4F65-BCD4-F30B5FFE5EBF}|Projeto30\\Projeto30.csproj|solutionrelative:projeto30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9BD35A2D-EEEA-4F65-BCD4-F30B5FFE5EBF}|Projeto30\\Projeto30.csproj|c:\\projetos\\cursocsharp\\projeto30\\projeto30\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BD35A2D-EEEA-4F65-BCD4-F30B5FFE5EBF}|Projeto30\\Projeto30.csproj|solutionrelative:projeto30\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BD35A2D-EEEA-4F65-BCD4-F30B5FFE5EBF}|Projeto30\\Projeto30.csproj|c:\\projetos\\cursocsharp\\projeto30\\projeto30\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BD35A2D-EEEA-4F65-BCD4-F30B5FFE5EBF}|Projeto30\\Projeto30.csproj|solutionrelative:projeto30\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD35A2D-EEEA-4F65-BCD4-F30B5FFE5EBF}|Projeto30\\Projeto30.csproj|c:\\projetos\\cursocsharp\\projeto30\\projeto30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD35A2D-EEEA-4F65-BCD4-F30B5FFE5EBF}|Projeto30\\Projeto30.csproj|solutionrelative:projeto30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto30\\Projeto30\\Entities\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Projeto30\\Entities\\Enums\\OrderStatus.cs",
@@ -39,26 +39,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto30\\Projeto30\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Projeto30\\Entities\\Order.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto30\\Projeto30\\Entities\\Order.cs",
               "RelativeToolTip": "Projeto30\\Entities\\Order.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T17:48:06.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto30\\Projeto30\\Program.cs",
               "RelativeDocumentMoniker": "Projeto30\\Program.cs",
-              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto30\\Projeto30\\Program.cs*",
-              "RelativeToolTip": "Projeto30\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto30\\Projeto30\\Program.cs",
+              "RelativeToolTip": "Projeto30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T17:04:46.368Z",
               "EditorCaption": ""
