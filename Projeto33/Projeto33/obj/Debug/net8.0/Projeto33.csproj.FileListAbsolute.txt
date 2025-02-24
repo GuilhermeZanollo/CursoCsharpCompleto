@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\obj\Debug\net8.0\Projeto33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\obj\Debug\net8.0\Projeto33.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\obj\Debug\net8.0\Projeto33.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\obj\Debug\net8.0\Projeto33.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\obj\Debug\net8.0\Projeto33.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\bin\Debug\net8.0\Projeto33.exe
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\bin\Debug\net8.0\Projeto33.deps.json
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\bin\Debug\net8.0\Projeto33.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\bin\Debug\net8.0\Projeto33.dll
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\bin\Debug\net8.0\Projeto33.pdb
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\obj\Debug\net8.0\Projeto33.dll
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\obj\Debug\net8.0\refint\Projeto33.dll
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\obj\Debug\net8.0\Projeto33.pdb
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\obj\Debug\net8.0\Projeto33.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto33\Projeto33\obj\Debug\net8.0\ref\Projeto33.dll
