@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\bin\Debug\net8.0\Projeto38.exe
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\bin\Debug\net8.0\Projeto38.deps.json
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\bin\Debug\net8.0\Projeto38.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\bin\Debug\net8.0\Projeto38.dll
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\bin\Debug\net8.0\Projeto38.pdb
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\obj\Debug\net8.0\Projeto38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\obj\Debug\net8.0\Projeto38.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\obj\Debug\net8.0\Projeto38.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\obj\Debug\net8.0\Projeto38.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\obj\Debug\net8.0\Projeto38.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\obj\Debug\net8.0\Projeto38.dll
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\obj\Debug\net8.0\refint\Projeto38.dll
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\obj\Debug\net8.0\Projeto38.pdb
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\obj\Debug\net8.0\Projeto38.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto38\Projeto38\obj\Debug\net8.0\ref\Projeto38.dll

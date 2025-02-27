@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\obj\Debug\net8.0\Projeto42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\obj\Debug\net8.0\Projeto42.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\obj\Debug\net8.0\Projeto42.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\obj\Debug\net8.0\Projeto42.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\obj\Debug\net8.0\Projeto42.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\bin\Debug\net8.0\Projeto42.exe
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\bin\Debug\net8.0\Projeto42.deps.json
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\bin\Debug\net8.0\Projeto42.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\bin\Debug\net8.0\Projeto42.dll
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\bin\Debug\net8.0\Projeto42.pdb
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\obj\Debug\net8.0\Projeto42.dll
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\obj\Debug\net8.0\refint\Projeto42.dll
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\obj\Debug\net8.0\Projeto42.pdb
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\obj\Debug\net8.0\Projeto42.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto42\Projeto42\obj\Debug\net8.0\ref\Projeto42.dll

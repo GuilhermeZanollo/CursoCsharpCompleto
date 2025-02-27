@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\obj\Debug\net8.0\Projeto36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\obj\Debug\net8.0\Projeto36.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\obj\Debug\net8.0\Projeto36.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\obj\Debug\net8.0\Projeto36.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\obj\Debug\net8.0\Projeto36.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\bin\Debug\net8.0\Projeto36.exe
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\bin\Debug\net8.0\Projeto36.deps.json
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\bin\Debug\net8.0\Projeto36.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\bin\Debug\net8.0\Projeto36.dll
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\bin\Debug\net8.0\Projeto36.pdb
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\obj\Debug\net8.0\Projeto36.dll
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\obj\Debug\net8.0\refint\Projeto36.dll
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\obj\Debug\net8.0\Projeto36.pdb
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\obj\Debug\net8.0\Projeto36.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto36\Projeto36\obj\Debug\net8.0\ref\Projeto36.dll

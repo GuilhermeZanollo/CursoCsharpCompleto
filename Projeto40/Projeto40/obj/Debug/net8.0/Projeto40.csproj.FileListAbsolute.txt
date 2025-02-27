@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\obj\Debug\net8.0\Projeto40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\obj\Debug\net8.0\Projeto40.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\obj\Debug\net8.0\Projeto40.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\obj\Debug\net8.0\Projeto40.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\obj\Debug\net8.0\Projeto40.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\bin\Debug\net8.0\Projeto40.exe
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\bin\Debug\net8.0\Projeto40.deps.json
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\bin\Debug\net8.0\Projeto40.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\bin\Debug\net8.0\Projeto40.dll
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\bin\Debug\net8.0\Projeto40.pdb
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\obj\Debug\net8.0\Projeto40.dll
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\obj\Debug\net8.0\refint\Projeto40.dll
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\obj\Debug\net8.0\Projeto40.pdb
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\obj\Debug\net8.0\Projeto40.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto40\Projeto40\obj\Debug\net8.0\ref\Projeto40.dll
