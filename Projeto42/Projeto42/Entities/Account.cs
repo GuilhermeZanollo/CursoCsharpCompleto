@@ -21,7 +21,6 @@ namespace Projeto42.Entities
             Balance = balance;
             WithdrawLimit = withdrawLimit;
         }
-
         public void Withdraw(double amount)
         {
             if (amount > WithdrawLimit)

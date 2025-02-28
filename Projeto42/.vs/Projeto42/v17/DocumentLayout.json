@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Projetos\\CursoCsharp\\Projeto42\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3A0B2D6-A4CC-4727-BA48-9258103BFB75}|Projeto42\\Projeto42.csproj|c:\\projetos\\cursocsharp\\projeto42\\projeto42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3A0B2D6-A4CC-4727-BA48-9258103BFB75}|Projeto42\\Projeto42.csproj|solutionrelative:projeto42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3A0B2D6-A4CC-4727-BA48-9258103BFB75}|Projeto42\\Projeto42.csproj|c:\\projetos\\cursocsharp\\projeto42\\projeto42\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3A0B2D6-A4CC-4727-BA48-9258103BFB75}|Projeto42\\Projeto42.csproj|solutionrelative:projeto42\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A0B2D6-A4CC-4727-BA48-9258103BFB75}|Projeto42\\Projeto42.csproj|c:\\projetos\\cursocsharp\\projeto42\\projeto42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A0B2D6-A4CC-4727-BA48-9258103BFB75}|Projeto42\\Projeto42.csproj|solutionrelative:projeto42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3A0B2D6-A4CC-4727-BA48-9258103BFB75}|Projeto42\\Projeto42.csproj|c:\\projetos\\cursocsharp\\projeto42\\projeto42\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -34,31 +34,30 @@
               "RelativeToolTip": "Projeto42\\Entities\\Exceptions\\DomainException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:35:03.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T17:35:03.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto42\\Projeto42\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "Projeto42\\Entities\\Account.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto42\\Projeto42\\Entities\\Account.cs",
               "RelativeToolTip": "Projeto42\\Entities\\Account.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:51:30.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto42\\Projeto42\\Program.cs",
               "RelativeDocumentMoniker": "Projeto42\\Program.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto42\\Projeto42\\Program.cs",
               "RelativeToolTip": "Projeto42\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wA4AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:49:46.226Z",
               "EditorCaption": ""

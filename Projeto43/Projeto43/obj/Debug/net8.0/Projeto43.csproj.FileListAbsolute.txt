@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\bin\Debug\net8.0\Projeto43.exe
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\bin\Debug\net8.0\Projeto43.deps.json
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\bin\Debug\net8.0\Projeto43.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\bin\Debug\net8.0\Projeto43.dll
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\bin\Debug\net8.0\Projeto43.pdb
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\obj\Debug\net8.0\Projeto43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\obj\Debug\net8.0\Projeto43.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\obj\Debug\net8.0\Projeto43.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\obj\Debug\net8.0\Projeto43.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\obj\Debug\net8.0\Projeto43.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\obj\Debug\net8.0\Projeto43.dll
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\obj\Debug\net8.0\refint\Projeto43.dll
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\obj\Debug\net8.0\Projeto43.pdb
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\obj\Debug\net8.0\Projeto43.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto43\Projeto43\obj\Debug\net8.0\ref\Projeto43.dll

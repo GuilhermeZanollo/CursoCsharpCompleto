@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoCsharp\\Projeto43\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|c:\\projetos\\cursocsharp\\projeto43\\projeto43\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|solutionrelative:projeto43\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|c:\\projetos\\cursocsharp\\projeto43\\projeto43\\entities\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|solutionrelative:projeto43\\entities\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|c:\\projetos\\cursocsharp\\projeto43\\projeto43\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|solutionrelative:projeto43\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|c:\\projetos\\cursocsharp\\projeto43\\projeto43\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|solutionrelative:projeto43\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|c:\\projetos\\cursocsharp\\projeto43\\projeto43\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|solutionrelative:projeto43\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|c:\\projetos\\cursocsharp\\projeto43\\projeto43\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECF7386-C4C9-4555-B4FE-1B49C7848F33}|Projeto43\\Projeto43.csproj|solutionrelative:projeto43\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto43\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Program.cs",
+              "RelativeToolTip": "Projeto43\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:45:55.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Projeto43\\Services\\RentalService.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Services\\RentalService.cs",
+              "RelativeToolTip": "Projeto43\\Services\\RentalService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:40:54.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "Projeto43\\Services\\BrazilTaxService.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "Projeto43\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:40:53.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Projeto43\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Projeto43\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:40:52.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rent.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Entities\\Rent.cs",
+              "RelativeDocumentMoniker": "Projeto43\\Entities\\Rent.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Entities\\Rent.cs",
+              "RelativeToolTip": "Projeto43\\Entities\\Rent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:40:52.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Projeto43\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto43\\Projeto43\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Projeto43\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:40:51.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
