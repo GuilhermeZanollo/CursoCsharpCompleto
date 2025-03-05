@@ -23,18 +23,18 @@ namespace Projeto44.Services
                                                                        // do mesmo objeto rent, para calcular a diferença entre os dois valores."
 
             double basicPayment = 0.0;
-            if (duration.TotalHours <= 12.0) // 
+            if (duration.TotalHours <= 12.0) // TotalHours retorna valor total de horas de minutos para fração de horas
             {
-                basicPayment = PricePerHour * Math.Ceiling(duration.TotalHours);
+                basicPayment = PricePerHour * Math.Ceiling(duration.TotalHours); // Arredonda o numero de horas para o proximo valor inteiro mais alto
             }
             else
             {
-                basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays);
+                basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays); // Caso seja maior que 12.0hrs é feito o calculo referente ao preço por dia
             }
 
             double tax = _taxService.Tax(basicPayment); // Passando valor de basicPayment para tax
 
-            rent.Invoice = new Invoice(basicPayment, tax); // // A invoice é criada e atribuída à propriedade Invoice do objeto Rent
+            rent.Invoice = new Invoice(basicPayment, tax); // A invoice é criada e atribuída à propriedade Invoice do objeto Rent
         }
     }
 }

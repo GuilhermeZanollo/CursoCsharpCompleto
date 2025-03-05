@@ -32,12 +32,12 @@ namespace Projeto43
 
             Rent rent = new Rent(pickUp, returnTime, new Vehicle(carModel));
 
-            RentalService rentalService = new RentalService(pricePerHour, pricePerDay, new BrazilTaxService());
+            RentalService rentalService = new RentalService(pricePerHour, pricePerDay, new BrazilTaxService()); // Recebe BrazilTaxService pois torna menos 
 
-            rentalService.ProcessInvoice(rent);
+            rentalService.ProcessInvoice(rent); // Recebe como argumento dados de Rent e envia para o método ProcessInvoice da classe RentalService
 
             Console.WriteLine("INVOICE: ");
-            Console.WriteLine(rent.Invoice);
+            Console.WriteLine(rent.Invoice); // Busca o valor do atributo Invoice na classe Rent (ToString)
         }
     }
 }

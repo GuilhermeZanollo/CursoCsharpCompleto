@@ -6,11 +6,11 @@
         {
             if (amount <= 100.0)
             {
-                return amount * 0.2;
+                return amount * 0.2; // 20%
             }
             else
             {
-                return amount * 0.15;
+                return amount * 0.15; // 15%
             }
         }
     }
