@@ -13,22 +13,22 @@ namespace Projeto43
              se a duração da lcoação ultrapassar 12 horas, a locação será cobrada com base em um valor diário.
             Além do valor da locação, é acrescido no preço o valor do imposto conforme regras do país que, no
             caso do Brasil, é 20% para valores até 100.00, ou 15% para valores acima de 100.00. Fazer um programa
-            que lê os dados da locação (modelo do carro, instante inicial e final da locação), bemm como o valor 
+            que lê os dados da locação (modelo do carro, instante inicial e final da locação), bem como o valor 
             por hora e valor diário de locação. O programa deve então gerar a nota de pagamento (contendo valor da 
             locação, valor do imposto e valor total do pagamento) e informar os dados na tela. Veja os exemplos.
             */
 
             Console.WriteLine("Enter rental data");
             Console.Write("Car model: ");
-            string carModel = Console.ReadLine();
+            string carModel = Console.ReadLine() ?? string.Empty;
             Console.Write("Pickup (dd/MM/yyyy hh:mm): ");
-            DateTime pickUp = DateTime.Parse(Console.ReadLine());
+            DateTime pickUp = DateTime.Parse(Console.ReadLine() ?? string.Empty);
             Console.Write("Return (dd/MM/yyyy hh:mm): ");
-            DateTime returnTime = DateTime.Parse(Console.ReadLine());
+            DateTime returnTime = DateTime.Parse(Console.ReadLine() ?? string.Empty);
             Console.Write("Enter price per hour: ");
-            double pricePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double pricePerHour = double.Parse(Console.ReadLine() ?? string.Empty, CultureInfo.InvariantCulture);
             Console.Write("Enter price per day: ");
-            double pricePerDay = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double pricePerDay = double.Parse(Console.ReadLine() ?? string.Empty, CultureInfo.InvariantCulture);
 
             Rent rent = new Rent(pickUp, returnTime, new Vehicle(carModel));
 
