@@ -1,0 +1,15 @@
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\obj\Debug\net8.0\Projeto45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\obj\Debug\net8.0\Projeto45.AssemblyInfoInputs.cache
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\obj\Debug\net8.0\Projeto45.AssemblyInfo.cs
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\obj\Debug\net8.0\Projeto45.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\obj\Debug\net8.0\Projeto45.sourcelink.json
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\bin\Debug\net8.0\Projeto45.exe
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\bin\Debug\net8.0\Projeto45.deps.json
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\bin\Debug\net8.0\Projeto45.runtimeconfig.json
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\bin\Debug\net8.0\Projeto45.dll
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\bin\Debug\net8.0\Projeto45.pdb
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\obj\Debug\net8.0\Projeto45.dll
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\obj\Debug\net8.0\refint\Projeto45.dll
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\obj\Debug\net8.0\Projeto45.pdb
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\obj\Debug\net8.0\Projeto45.genruntimeconfig.cache
+C:\Projetos\CursoCsharp\Projeto45\Projeto45\obj\Debug\net8.0\ref\Projeto45.dll
