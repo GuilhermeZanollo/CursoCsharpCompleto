@@ -1,4 +1,6 @@
-﻿namespace Projeto44.Services
+﻿using Projeto44.Interfaces;
+
+namespace Projeto44.Services
 {
     internal class BrazilTaxService : ITaxService // Implementando a interface
     {

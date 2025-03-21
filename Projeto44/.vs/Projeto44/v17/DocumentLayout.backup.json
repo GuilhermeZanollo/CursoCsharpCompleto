@@ -50,8 +50,7 @@
               "RelativeToolTip": "Projeto44\\Program.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAACcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T16:30:39.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T16:30:39.104Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Projeto44\\Entities\\Vehicle.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAuwDAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T16:31:33.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T16:31:33.143Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "Projeto44\\Services\\ITaxService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T16:28:55.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T16:28:55.917Z"
             },
             {
               "$type": "Document",
@@ -87,7 +84,7 @@
               "RelativeDocumentMoniker": "Projeto44\\Entities\\Invoice.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto44\\Projeto44\\Entities\\Invoice.cs",
               "RelativeToolTip": "Projeto44\\Entities\\Invoice.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA5wA8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T11:17:09.279Z",
               "EditorCaption": ""
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Projeto44\\Entities\\Rent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T11:16:12.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T11:16:12.802Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Projeto44\\Services\\RentalService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:57:00.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:57:00.873Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "Projeto44\\Services\\BrazilTaxService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:56:17.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:56:17.584Z"
             }
           ]
         }

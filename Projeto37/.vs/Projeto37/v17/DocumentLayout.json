@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Projetos\\CursoCsharp\\Projeto37\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|c:\\projetos\\cursocsharp\\projeto37\\projeto37\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|solutionrelative:projeto37\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|c:\\projetos\\cursocsharp\\projeto37\\projeto37\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|solutionrelative:projeto37\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|c:\\projetos\\cursocsharp\\projeto37\\projeto37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|solutionrelative:projeto37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|c:\\projetos\\cursocsharp\\projeto37\\projeto37\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|solutionrelative:projeto37\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|c:\\projetos\\cursocsharp\\projeto37\\projeto37\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|solutionrelative:projeto37\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|c:\\projetos\\cursocsharp\\projeto37\\projeto37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8554B07-8140-4DCE-AA08-298C8EF4E466}|Projeto37\\Projeto37.csproj|solutionrelative:projeto37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ImportedProduct.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto37\\Projeto37\\Entities\\ImportedProduct.cs",
               "RelativeDocumentMoniker": "Projeto37\\Entities\\ImportedProduct.cs",
@@ -43,20 +43,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UsedProduct.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto37\\Projeto37\\Entities\\UsedProduct.cs",
               "RelativeDocumentMoniker": "Projeto37\\Entities\\UsedProduct.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto37\\Projeto37\\Entities\\UsedProduct.cs",
               "RelativeToolTip": "Projeto37\\Entities\\UsedProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T16:38:37.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto37\\Projeto37\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Projeto37\\Entities\\Product.cs",
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto37\\Projeto37\\Program.cs",
               "RelativeDocumentMoniker": "Projeto37\\Program.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto37\\Projeto37\\Program.cs",
               "RelativeToolTip": "Projeto37\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T16:13:50.569Z",
               "EditorCaption": ""

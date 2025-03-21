@@ -1,4 +1,5 @@
 ﻿using Projeto44.Entities;
+using Projeto44.Interfaces;
 
 namespace Projeto44.Services
 {

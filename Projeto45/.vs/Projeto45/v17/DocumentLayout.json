@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Projetos\\CursoCsharp\\Projeto45\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|c:\\projetos\\cursocsharp\\projeto45\\projeto45\\services\\usataxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|solutionrelative:projeto45\\services\\usataxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|c:\\projetos\\cursocsharp\\projeto45\\projeto45\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|solutionrelative:projeto45\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|c:\\projetos\\cursocsharp\\projeto45\\projeto45\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|solutionrelative:projeto45\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|c:\\projetos\\cursocsharp\\projeto45\\projeto45\\services\\usataxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|solutionrelative:projeto45\\services\\usataxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|c:\\projetos\\cursocsharp\\projeto45\\projeto45\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|solutionrelative:projeto45\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|c:\\projetos\\cursocsharp\\projeto45\\projeto45\\interfaces\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|solutionrelative:projeto45\\interfaces\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|c:\\projetos\\cursocsharp\\projeto45\\projeto45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|solutionrelative:projeto45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|c:\\projetos\\cursocsharp\\projeto45\\projeto45\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +31,8 @@
       "RelativeMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|solutionrelative:projeto45\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|c:\\projetos\\cursocsharp\\projeto45\\projeto45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|solutionrelative:projeto45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|c:\\projetos\\cursocsharp\\projeto45\\projeto45\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D2DDD1-1ADF-4FDC-8F59-C5F650EDA2E9}|Projeto45\\Projeto45.csproj|solutionrelative:projeto45\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,30 +42,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsaTaxService.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Services\\UsaTaxService.cs",
               "RelativeDocumentMoniker": "Projeto45\\Services\\UsaTaxService.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Services\\UsaTaxService.cs",
               "RelativeToolTip": "Projeto45\\Services\\UsaTaxService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T11:48:34.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RentalService.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Services\\RentalService.cs",
               "RelativeDocumentMoniker": "Projeto45\\Services\\RentalService.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Services\\RentalService.cs",
               "RelativeToolTip": "Projeto45\\Services\\RentalService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwB4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T11:48:23.886Z",
               "EditorCaption": ""
@@ -74,10 +74,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ITaxService.cs",
-              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Services\\ITaxService.cs",
-              "RelativeDocumentMoniker": "Projeto45\\Services\\ITaxService.cs",
-              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Services\\ITaxService.cs",
-              "RelativeToolTip": "Projeto45\\Services\\ITaxService.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Interfaces\\ITaxService.cs",
+              "RelativeDocumentMoniker": "Projeto45\\Interfaces\\ITaxService.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Interfaces\\ITaxService.cs",
+              "RelativeToolTip": "Projeto45\\Interfaces\\ITaxService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T11:48:13.794Z",
@@ -85,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "BrazilTaxService.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Services\\BrazilTaxService.cs",
               "RelativeDocumentMoniker": "Projeto45\\Services\\BrazilTaxService.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Services\\BrazilTaxService.cs",
               "RelativeToolTip": "Projeto45\\Services\\BrazilTaxService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIAwwA8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwBAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T11:48:01.691Z",
               "EditorCaption": ""
@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "Projeto45\\Entities\\Vehicle.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Entities\\Vehicle.cs",
               "RelativeToolTip": "Projeto45\\Entities\\Vehicle.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwBkAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T11:47:50.454Z",
               "EditorCaption": ""
@@ -130,20 +130,20 @@
               "RelativeDocumentMoniker": "Projeto45\\Entities\\Invoice.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Entities\\Invoice.cs",
               "RelativeToolTip": "Projeto45\\Entities\\Invoice.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA5wAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T11:47:33.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Program.cs",
               "RelativeDocumentMoniker": "Projeto45\\Program.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto45\\Projeto45\\Program.cs",
               "RelativeToolTip": "Projeto45\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCYAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T11:46:05.777Z",
               "EditorCaption": ""

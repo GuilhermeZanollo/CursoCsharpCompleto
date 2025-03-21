@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{04404AEE-B63E-45B2-B6F9-62C3E53B40DC}|Projeto35\\Projeto35.csproj|c:\\projetos\\cursocsharp\\projeto35\\projeto35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04404AEE-B63E-45B2-B6F9-62C3E53B40DC}|Projeto35\\Projeto35.csproj|solutionrelative:projeto35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04404AEE-B63E-45B2-B6F9-62C3E53B40DC}|Projeto35\\Projeto35.csproj|c:\\projetos\\cursocsharp\\projeto35\\projeto35\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04404AEE-B63E-45B2-B6F9-62C3E53B40DC}|Projeto35\\Projeto35.csproj|solutionrelative:projeto35\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04404AEE-B63E-45B2-B6F9-62C3E53B40DC}|Projeto35\\Projeto35.csproj|c:\\projetos\\cursocsharp\\projeto35\\projeto35\\entities\\savingsaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04404AEE-B63E-45B2-B6F9-62C3E53B40DC}|Projeto35\\Projeto35.csproj|solutionrelative:projeto35\\entities\\savingsaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04404AEE-B63E-45B2-B6F9-62C3E53B40DC}|Projeto35\\Projeto35.csproj|c:\\projetos\\cursocsharp\\projeto35\\projeto35\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04404AEE-B63E-45B2-B6F9-62C3E53B40DC}|Projeto35\\Projeto35.csproj|solutionrelative:projeto35\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04404AEE-B63E-45B2-B6F9-62C3E53B40DC}|Projeto35\\Projeto35.csproj|c:\\projetos\\cursocsharp\\projeto35\\projeto35\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04404AEE-B63E-45B2-B6F9-62C3E53B40DC}|Projeto35\\Projeto35.csproj|solutionrelative:projeto35\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccountPlus.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto35\\Projeto35\\Entities\\SavingsAccountPlus.cs",
+              "RelativeDocumentMoniker": "Projeto35\\Entities\\SavingsAccountPlus.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto35\\Projeto35\\Entities\\SavingsAccountPlus.cs",
+              "RelativeToolTip": "Projeto35\\Entities\\SavingsAccountPlus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:23:45.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto35\\Projeto35\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Projeto35\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto35\\Projeto35\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "Projeto35\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:18:32.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto35\\Projeto35\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "Projeto35\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto35\\Projeto35\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "Projeto35\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:18:20.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoCsharp\\Projeto35\\Projeto35\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Projeto35\\Entities\\Account.cs",
+              "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto35\\Projeto35\\Entities\\Account.cs",
+              "RelativeToolTip": "Projeto35\\Entities\\Account.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:18:02Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "Projeto35\\Program.cs",
               "ToolTip": "C:\\Projetos\\CursoCsharp\\Projeto35\\Projeto35\\Program.cs",
               "RelativeToolTip": "Projeto35\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T11:10:21.679Z",
               "EditorCaption": ""
